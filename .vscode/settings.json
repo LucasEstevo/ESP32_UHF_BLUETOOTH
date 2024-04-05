@@ -1,0 +1,15 @@
+{
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "files.associations": {
+        "bluetooth.h": "c",
+        "esp_system.h": "c",
+        "board_gpio.h": "c",
+        "esp_spp_api.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "*.inc": "c"
+    },
+    "idf.adapterTargetName": "esp32",
+    "idf.portWin": "COM9"
+}
